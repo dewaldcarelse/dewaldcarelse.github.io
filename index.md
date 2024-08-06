@@ -13,5 +13,9 @@ permalink: /index.md
 
 Test
 <details>
-Can you see this?
+### Entity
+* Property 1
+* Property 2
+  * Other object (link)
+    * Other object's properties
 </details>
