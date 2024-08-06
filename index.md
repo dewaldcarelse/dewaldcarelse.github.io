@@ -10,3 +10,8 @@ permalink: /index.md
 * Property 2
   * Other object (link)
     * Other object's properties
+
+Test
+<details>
+Can you see this?
+</details>
